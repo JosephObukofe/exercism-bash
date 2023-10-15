@@ -5,4 +5,4 @@ if [[ "$#" == 1 ]]; then
 else
     echo "Usage: error_handling.sh <person>"
     exit 1 # Exit on a non-zero status
-fi
+fi 

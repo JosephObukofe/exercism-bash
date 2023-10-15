@@ -22,4 +22,4 @@ fi
 
 IFS=$' \t\n' # Restoring the default IFS value
 
-echo "$result"
+echo "$result" 
